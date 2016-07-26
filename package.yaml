@@ -21,4 +21,4 @@ executables:
             - reflex >= 0.4.0
             - reflex-dom >= 0.3
 
-github: maxdaten/rampart-web
+github: MaxDaten/rampart-web

@@ -1,6 +1,6 @@
 # rampart-web [![Build Status](https://travis-ci.org/maxdaten/rampart-web.svg?branch=master)](https://travis-ci.org/maxdaten/rampart-web)
 
-Base on yamafaktory/reflex-starter
+Based on yamafaktory/reflex-starter
 
 > A simple starter project for building Reflex applications with [Stack](https://github.com/commercialhaskell/stack).
 
