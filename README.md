@@ -1,4 +1,4 @@
-# rampart-web [![Build Status](https://travis-ci.org/maxdaten/rampart-web.svg?branch=master)](https://travis-ci.org/maxdaten/rampart-web)
+# rampart-web [![Build Status](https://travis-ci.org/MaxDaten/rampart-web.svg?branch=master)](https://travis-ci.org/MaxDaten/rampart-web)
 
 Based on yamafaktory/reflex-starter
 
