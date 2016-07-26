@@ -1,5 +1,6 @@
 language: haskell
 
+
 before_install:
   - mkdir -p ~/.local/bin/stack
   - export PATH=~/.local/bin/stack:$PATH
