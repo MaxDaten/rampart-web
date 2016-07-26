@@ -8,7 +8,7 @@ synopsis:       Web experiments with haskell
 description:    Discovery of Haskell as a web language
 category:       Web
 homepage:       https://example.com
-bug-reports:    https://github.com/maxdaten/rampart-web/issues
+bug-reports:    https://github.com/MaxDaten/rampart-web/issues
 author:         Jan-Philip Loos
 maintainer:     jloos@maxdaten.io
 copyright:      2016 Jan-Philip Loos
@@ -19,9 +19,9 @@ cabal-version:  >= 1.10
 
 source-repository head
   type: git
-  location: https://github.com/maxdaten/rampart-web
+  location: https://github.com/MaxDaten/rampart-web
 
-executable reflex-starter
+executable rampart-web
   main-is: Main.hs
   hs-source-dirs:
       src
